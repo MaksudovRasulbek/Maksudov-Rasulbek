@@ -52,18 +52,8 @@ Feel free to make any changes or enhancements that suit your requirements and pe
 ## Contributing
 Contributions to this project are welcome! If you have suggestions for improvements, such as new features, bug fixes, or UI enhancements, please feel free to submit a pull request. Let's collaborate and make this portfolio template even better!
 
-## Contact
-If you have any questions, suggestions, or opportunities for collaboration, please feel free to reach out:
-
-- Name: [Anjali](https://github.com/anjali9156)
-- Email: anjaliduhan06@gmail.com
-- LinkedIn: www.linkedin.com/in/anjaliduhan
-- Website: https://anjali9156.github.io/Portfolio/
 
 I am excited to connect with you and discuss how we can work together on interesting projects or opportunities.
-
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use and customize the code for your own portfolio. However, please attribute the original repository and author by keeping the appropriate headers and license information.
 
 ---
 
